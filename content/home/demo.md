@@ -6,7 +6,7 @@ widget: blank
 widget_id: recent-posts
 headless: true
 weight: 15
-title: Academic Template
+title: Apicazorla
 subtitle: ""
 active: true
 design:
