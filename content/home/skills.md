@@ -1,11 +1,13 @@
 ---
+# Anula temporalmente la publicacion
+draft: true
+
 # An instance of the Featurette widget.
+
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
-# Anula temporalmente la publicacion
 
-draft=true
 
 # This file represents a page section.
 headless: true
