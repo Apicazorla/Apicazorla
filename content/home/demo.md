@@ -12,8 +12,8 @@ active: true
 design:
   columns: "1"
   background:
-    gradient_start: "#4d4ba8"
-    gradient_end: "#34c4c9"
+    gradient_start: "#6ac355"
+    gradient_end: "#a1cf37"
     text_color_light: true
   spacing:
     padding:
