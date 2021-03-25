@@ -22,10 +22,8 @@ design:
       - 20px
       - "0"
 ---
-.<div style="text-align: center">
-## 👋 Bienvenido a la web apicazorla.com
-<div/>
 
+## 👋 Bienvenido a la web apicazorla.com
 
 <center>
 <img src="http://drive.google.com/uc?export=view&id=1NonB4bN6evJ6VCxlu0c-3TUpRwfCkJLf" width="750">
