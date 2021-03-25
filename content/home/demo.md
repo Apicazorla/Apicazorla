@@ -29,7 +29,8 @@ design:
 <img src="http://drive.google.com/uc?export=view&id=1NonB4bN6evJ6VCxlu0c-3TUpRwfCkJLf" width="750">
 </center>
 
-The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
+La web de apicualtura de la **Sierra de Cazorla** para dar a conocer sus productos apícolas y algunos aspectos del mundo de las abejas.
+
 
 [Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
 
