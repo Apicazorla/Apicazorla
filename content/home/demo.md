@@ -25,8 +25,9 @@ design:
 
 ## 👋 Bienvenido a la web apicazorla.com
 
-<img src="http://drive.google.com/uc?export=view&id=1NonB4bN6evJ6VCxlu0c-3TUpRwfCkJLf" width="200">
-
+<center>
+<img src="http://drive.google.com/uc?export=view&id=1NonB4bN6evJ6VCxlu0c-3TUpRwfCkJLf" width="500">
+</center>
 
  ![foto](http://drive.google.com/uc?export=view&id=1NonB4bN6evJ6VCxlu0c-3TUpRwfCkJLf)
 
