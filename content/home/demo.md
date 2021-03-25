@@ -25,7 +25,7 @@ design:
 
 ## 👋 Bienvenido a la web apicazorla.com
 
- ![foto](http://drive.google.com/uc?export=view&id=1NonB4bN6evJ6VCxlu0c-3TUpRwfCkJLf)("width:50px")
+ ![foto](http://drive.google.com/uc?export=view&id=1NonB4bN6evJ6VCxlu0c-3TUpRwfCkJLf =100x)
 
 The Wowchemy **Academic Resumé Template** for Hugo empowers you to create your job-winning online resumé and showcase your academic publications.
 
