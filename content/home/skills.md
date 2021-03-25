@@ -1,6 +1,5 @@
 ---
-# Anula temporalmente la publicacion
-draft: true
+
 
 # An instance of the Featurette widget.
 
