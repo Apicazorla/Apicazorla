@@ -6,7 +6,7 @@ widget: blank
 widget_id: recent-posts
 headless: true
 weight: 15
-title: "###Apicazorla"
+title: Apicazorla
 subtitle: ""
 active: true
 design:
@@ -24,7 +24,7 @@ design:
 ---
 
 
-<h1 style="color:white;text-align:center;"> 👋 Bienvenido a la web apicazorla.com </h1>
+<h2 style="color:white;text-align:center;"> 👋 Bienvenido a la web apicazorla.com </h1>
 
 </center>
 <center>
