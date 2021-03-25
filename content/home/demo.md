@@ -24,7 +24,7 @@ design:
 ---
 
 
-<h1 style="color:blue;text-align:center;"> 👋 Bienvenido a la web apicazorla.com </h1>
+<h1 style="color:white;text-align:center;"> 👋 Bienvenido a la web apicazorla.com </h1>
 
 </center>
 <center>
