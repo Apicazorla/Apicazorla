@@ -23,8 +23,10 @@ design:
       - "0"
 ---
 
-## 👋 Bienvenido a la web apicazorla.com
 
+<h1 style="color:blue;text-align:center;"> 👋 Bienvenido a la web apicazorla.com </h1>
+
+</center>
 <center>
 <img src="https://drive.google.com/uc?export=view&id=1NonB4bN6evJ6VCxlu0c-3TUpRwfCkJLf" width="750">
 </center>
