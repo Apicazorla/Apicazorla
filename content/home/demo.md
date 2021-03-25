@@ -22,14 +22,14 @@ design:
       - 20px
       - "0"
 ---
-
+#<div style="text-align: center">
 ## 👋 Bienvenido a la web apicazorla.com
 
 <center>
 <img src="http://drive.google.com/uc?export=view&id=1NonB4bN6evJ6VCxlu0c-3TUpRwfCkJLf" width="750">
 </center>
 
-La web de apicualtura de la **Sierra de Cazorla** para dar a conocer sus productos apícolas y algunos aspectos del mundo de las abejas.
+La web de apicultura de la **Sierra de Cazorla** para dar a conocer sus productos apícolas y algunos aspectos del mundo de las abejas.
 
 
 [Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
