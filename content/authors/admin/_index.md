@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Francisco José Moreno Hueso
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Apicultor aficionado y profesor de Física y Química jubilado
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,9 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Lectura
+- Paseos por la naturaleza
+- Bicicleta
+- Elaboración artesanal de jabones
 
 # Education to show in About widget
 education:
@@ -70,8 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+Francisco José Moreso Hueso  es un apicutor aficionado desde hace muchos años. Mientras que ha sido profesor ha compatibilizado esta actividad con la enseñanza. Actualmente cuenta con unas cien colmenas situadas en zonas de la Sierra de Cazorla de las que recoge miel de romero y de flores que vende con la marca Apicazorla
+en tiendas de la comarca. Cada año se tiene que sobreponer a los problemas derivados de la meteorología, que afecta a a la producción y, principalmente, a la lucha contra las enfermededades de la abeja, principalmente la varroa, que afectan a la producción.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
