@@ -32,6 +32,6 @@ Me interesa:
   - La elaboración artesanal de jabones
 ---
 
-Francisco José Moreso Hueso  es un apicutor aficionado desde hace muchos años. Mientras que ha sido profesor de enseñanza secundaria en los pueblos de la comarca ha compatibilizado esta actividad con la apicultura. Actualmente cuenta con unas cien colmenas situadas en zonas de la Sierra de Cazorla de las que recoge miel de romero y de flores que vende con la marca Apicazorla en tiendas de la comarca. Cada año se tiene que sobreponer a los problemas derivados de la meteorología y, principalmente, a las enfermededades de la abeja, como la varroa, factores ambos que afectan a la producción. En julio de 2020 ha lanzado al mercado Los Escutoides de Miel, un pack de dos tarros de cerámica con forma de escutoides que contienen miel de flores y de romero.
+Soy  apicutor aficionado desde hace muchos años. Mientras que he sido profesor de enseñanza secundaria en los pueblos de la comarca he compatibilizado esta actividad con la apicultura. Actualmente cuento con unas cien colmenas situadas en zonas de la Sierra de Cazorla de las que recojo miel de romero y de flores que vendo con la marca Apicazorla en tiendas de la comarca. Cada año me tengo que sobreponer a los problemas derivados de la meteorología y, principalmente, a las enfermededades de la abeja, como la varroasis, factores ambos que afectan a la producción. En julio de 2020 he lanzado al mercado _Los Escutoides de Miel_, un pack de dos tarros de cerámica con forma de escutoides que contienen miel de flores y de romero.
 
 
