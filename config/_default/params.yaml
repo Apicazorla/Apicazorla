@@ -22,16 +22,16 @@ twitter: ''
 
 email: fisicayquimica@telefonica.net
 phone: 888 888 88 88
-address: Río
-  street: Calle
+address: 
+  street: 
   city: Cazorla
   region: Jaen
   postcode: '23470'
   country: España
   country_code: ES
 coordinates:
-  latitude: '37.910549'
-  longitude: '-3.002170'
+  latitude: ''
+  longitude: ''
 directions: 
 office_hours:
   - 'Monday 10:00 to 13:00'
