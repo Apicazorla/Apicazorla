@@ -1,10 +1,13 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
+title: Francisco José Moreno Hueso
+role: Apicultor aficionado y profesor de Física y Química jubilado
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Lectura
+  - Paseos por la naturaleza
+  - Elaboración artesanal de jabones
+  - Bicicleta
 social:
   - icon: envelope
     icon_pack: fas
@@ -22,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Apicazorla
+    url: https://www.apicazorla.com/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -40,8 +43,4 @@ superuser: true
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Soy apicultor aficionado desde hace muchos años. Mientras que he sido profesor de enseñanza secundaria en los pueblos de esta comarca he compaginado esta actividad con la apicultura. Actualmente, mis colmenas se encuentran en varios asentamientos situados en la Sierra de Cazorla, de las que recolecto miel de romero y de flores que vendo con la marca Apicazorla en tiendas de la comarca. Cada año tengo que sobreponerme a los problemas derivados de la meteorología y, principalmente, a las enfermededades de la abeja, como la varroasis, factores ambos que merman la producción. En julio de 2020 he lanzado al mercado Los Escutoides de Miel, un pack de dos tarros de cerámica con forma de escutoides que contienen miel de flores y de romero.
