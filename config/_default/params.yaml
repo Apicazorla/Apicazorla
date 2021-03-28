@@ -23,15 +23,15 @@ twitter: ''
 email: fisicayquimica@telefonica.net
 #phone: 888 888 88 88
 address: 
-  street: Virgen de Montesión
+  street: C/ Virgen de Montesión, 3
   city: Cazorla
   region: Jaén
   postcode: '23470'
   country: España
   country_code: ES
-coordinates:
-  latitude: '37.910549'
-  longitude: '3.002170'
+#coordinates:
+  #latitude: '37.910549'
+  #longitude: '3.002170'
 
 
 # Site header
