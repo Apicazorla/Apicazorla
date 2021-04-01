@@ -9,7 +9,7 @@ url_slides: ""
 title: "Los Escutoides de Miel "
 tags:
   - Deep Learning
-links: []
+# links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
