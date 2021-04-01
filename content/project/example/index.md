@@ -4,7 +4,7 @@ url_pdf: ""
 summary: An example of using the in-built project page.
 url_video: ""
 date: 2016-04-27T00:00:00Z
-external_link: ooo
+external_link: content/project/example/index.md
 url_slides: ""
 title: "Los Escutoides de Miel "
 tags:
