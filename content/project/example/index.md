@@ -1,41 +1,19 @@
 ---
-title: Example Project
+slides: example
+url_pdf: ""
 summary: An example of using the in-built project page.
+url_video: ""
+date: 2016-04-27T00:00:00Z
+external_link: Nuevo post
+url_slides: ""
+title: "Los Escutoides de Miel "
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
-
-# Optional external URL for project (replaces project detail page).
-external_link: ""
-
+  - Deep Learning
+links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
-
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
 url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
-
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
-
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
-
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Hace algo más de dos años leí la noticia de que unos científicos andaluces habían descubierto que las células epiteliales del cuerpo humano se empaquetan unas con otras utilizando la figura que ellos bautizaban con el nombre de escutoide,  en honor a uno de los principales científicos del proyecto, el biólogo, Luis María Escudero. Me gustaron las formas de las figuras (se presentan en forma de dos escutoides unidos por una cara)  por  su bella estética y por lo que significaban desde el punto de vista científico, y pensé en la posibilidad de que me diseñaran unos envases para la miel con esta forma. Compré de Bélgica u Holanda, no recuerdo ahora, unos  escutoides de plástico  de una altura de unos 4 cm hechos con una impresora 3d que me costaron unos 30 euros. Unos meses después, octubre del 19, le presenté la idea a Jacinto, de Cerámica los Alfareros de Arjonilla, que se puso en contacto con un diseñador Córdoba para la realización de los escutoides para la miel a partir del  modelo que compré por internet. La pandemia del Covid-19 retrasó unos meses el proyecto pero a últimos de julio del 20 salieron al mercado los escutoides de miel: un conjunto formado por dos tarros, uno de color marfil, con miel de romero y otro de color marrón, con miel de flores, que contienen cada uno 250 g de miel. Se han dado ya los primeros pasos para hacer los escutoides de 500 g . He obtenido por parte de la OEPM el registro como diseño  industrial de los escutoides para la miel (publicación de la concesión en el BOPI  del  día 22/06/2020). Este verano ha sido visitada Cazorla por muchos turistas, una de las cuales, la restauradora pétrea,  como figura en su cuenta de Twitter, Gracia Vittoria, que le comunicaba por esta red social a la profesora de lengua Lola Pons,  unos días después de que saliera a la venta,   que,  ''sendereando por la Sierra de Cazorla me tropiezo con ESCUTOIDES de miel. Andalucía, sus científicos sevillanos y descubrir el escutoide que bien se divulgó en los medios''. El tuit llevaba una fotografía con los escutoides en su caja, que es la que aparece a continuación. 
