@@ -19,3 +19,4 @@ La graduación del alcohol empleado debe ser de 70º. Si no disponemos de él,  
 La hoja de cálculo nos sirve para obtener el volumen de alcohol de 70º si disponemos directamente de él, o la cantidad de agua necesaria que hemos de mezclar con alcohol de 96º para obtener esa cantidad de alcohol de 70º, o también, si disponemos de alcohol de menor graduación de 70º, la cantidad que tenemos que tomar de este para que al mezclarlo con alcohol de 96º obtengamos el alcohol de 70º.
 
  Por ejemplo, si queremos preparar una tintura de propóleos del 10% significa que por cada 100 g que contenga el macerado, 10 g es de propóleos bruto y 90 g, de alcohol de 70º (o 101 ml  en volumen).
+<a href="https://drive.google.com/file/d/18rK0elIXMlYTUPJormjRUFY2P2PUGy_W/view?usp=sharing">Hoja de cálculo</a>
