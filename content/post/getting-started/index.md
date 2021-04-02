@@ -38,8 +38,8 @@ Según este grupo de científicos, las células epiteliales se empaquetan utiliz
 En el siguiente vídeo, el biofísico del proyecto, Javier Buceta,  da una explicación pormenorizada del hallazgo y sus implicaciones en muchos ámbitos.
 
 <iframe
-    width="640"
-    height="480"
+    width="480"
+    height="360"
     src="https://www.youtube.com/embed/R7gOOxrP61Q"
     frameborder="0"
     allow="autoplay; encrypted-media"
