@@ -30,7 +30,7 @@ Clara Grima, profesora de matemáticas y divulgadora de Ciencias Matemáticas, u
  El grupo de científicos que hicieron el hallazgo de los escutoides lo publicaron en  la revista Nature Communications: Scutoids are a geometrical solution to three-dimensional packing of epithelia.  Otras medios de comunicación como CBS, New York Times, Forbes, BBC, New Yorker, etc., se hicieron eco de la noticia. Todos explicando y mostrando los escutoides. 
 Según Clara Grima ''era una nueva forma geométrica que no se había descrito ni en biología, ni en matemáticas ni en ninguna otra disciplina''. 
 
-A continuación se muestra una animación gif de los escutoides obtenida de la Wikipedia.
+A continuación, se muestra una animación gif de los escutoides obtenida de la Wikipedia.
 
 <div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/4xQXZvx_CCum1_oAWH9PrYHgNtzA6pzBZCrnCEqeqavMBy6g0jEVMdM1qJLLjDCV4nQOOb7IjGZDvR8=s400" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="400" data-original-width="300" height="240" src="https://1.bp.blogspot.com/4xQXZvx_CCum1_oAWH9PrYHgNtzA6pzBZCrnCEqeqavMBy6g0jEVMdM1qJLLjDCV4nQOOb7IjGZDvR8=s320" /></a></div>
 
