@@ -1,27 +1,3 @@
----
-advanced:
-  css_style: ""
-  css_class: ""
-widget: blank
-widget_id: recent-posts
-headless: true
-weight: 15
-title: Apicazorla
-subtitle: ""
-active: true
-design:
-  columns: "1"
-  background:
-    gradient_start: "#4d4ba8"
-    gradient_end: "#34c4c9"
-    text_color_light: true
-  spacing:
-    padding:
-      - 20px
-      - "0"
-      - 20px
-      - "0"
----
 
 
 <h2 style="color:white;text-align:center;"> 👋 Bienvenido a la web apicazorla.com </h1>
