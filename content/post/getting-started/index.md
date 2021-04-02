@@ -1,70 +1,34 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: "2020-12-13T00:00:00Z"
-
-# Date updated
-lastmod: "2020-12-13T00:00:00Z"
-
-# Is this an unpublished draft?
+summary: Welcome 👋 We know that first impressions are important, so we've
+  populated your new site with some initial content to help you get familiar
+  with everything in no time.
 draft: false
-
-# Show this page in the Featured widget?
+authors:
+  - admin
+  - 吳恩達
+lastmod: 2020-12-13T00:00:00Z
+title: Los Escutoides de Miel
+subtitle: Post en el que cuento de qué son los escutoides y cómo surgió la idea
+  de utilizar estas figuras como envase para la miel.
+date: 2020-12-13T00:00:00Z
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+tags:
+  - Academic
+  - 开源
+categories:
+  - Demo
+  - 教程
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
   focal_point: ""
   placement: 2
   preview_only: false
-
-authors:
-- admin
-- 吳恩達
-
-tags:
-- Academic
-- 开源
-
-categories:
-- Demo
-- 教程
 ---
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
-
-{{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
-
-## Get Started
-
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/plans/)
-
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/plans/) awesome rewards and extra features 🦄✨**
+Hace algo más de dos años leí la noticia de que unos científicos andaluces habían descubierto que las células epiteliales del cuerpo humano se empaquetan unas con otras utilizando la figura que ellos bautizaban con el nombre de escutoide, en honor a uno de los principales científicos del proyecto, el biólogo, Luis María Escudero. Me gustaron las formas de las figuras (se presentan en forma de dos escutoides unidos por una cara) por su bella estética y por lo que significaban desde el punto de vista científico, y pensé en la posibilidad de que me diseñaran unos envases para la miel con esta forma. Compré de Bélgica u Holanda, no recuerdo ahora, unos escutoides de plástico de una altura de unos 4 cm hechos con una impresora 3d que me costaron unos 30 euros. Unos meses después, octubre del 19, le presenté la idea a Jacinto, de Cerámica los Alfareros de Arjonilla, que se puso en contacto con un diseñador Córdoba para la realización de los escutoides para la miel a partir del modelo que compré por internet. La pandemia del Covid-19 retrasó unos meses el proyecto pero a últimos de julio del 20 salieron al mercado los escutoides de miel: un conjunto formado por dos tarros, uno de color marfil, con miel de romero y otro de color marrón, con miel de flores, que contienen cada uno 250 g de miel. Se han dado ya los primeros pasos para hacer los escutoides de 500 g . He obtenido por parte de la OEPM el registro como diseño industrial de los escutoides para la miel (publicación de la concesión en el BOPI del día 22/06/2020). Este verano ha sido visitada Cazorla por muchos turistas, una de las cuales, la restauradora pétrea, como figura en su cuenta de Twitter, Gracia Vittoria, que le comunicaba por esta red social a la profesora de lengua Lola Pons, unos días después de que saliera a la venta, que, ''sendereando por la Sierra de Cazorla me tropiezo con ESCUTOIDES de miel. Andalucía, sus científicos sevillanos y descubrir el escutoide que bien se divulgó en los medios''. El tuit llevaba una fotografía con los escutoides en su caja, que es la que aparece a continuación. 
 
 ## Ecosystem
 
