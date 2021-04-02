@@ -37,6 +37,15 @@ Según Clara Grima ''era una nueva forma geométrica que no se había descrito n
 Según este grupo de científicos, las células epiteliales se empaquetan utilizando esta figura, ya que es la mejor opción para ahorrar energía cuando hay cierta curvatura en el tejido. El hallazgo es importante para un mejor diagnóstico de tumores y el diseño de órganos artificiales.  
 En el siguiente vídeo, el biofísico del proyecto, Javier Buceta,  da una explicación pormenorizada del hallazgo y sus implicaciones en muchos ámbitos.
 
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/R7gOOxrP61Q"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 
 Si  usted está interesado en comprar los escutoides de miel puede adquirirlos en www.productoscazorla.com o en tiendas de la comarca de la Sierra de Cazorla. 
