@@ -39,8 +39,8 @@ En el siguiente vídeo, el biofísico del proyecto, Javier Buceta,  da una expli
 
 <center>
 <iframe
-    width="480"
-    height="360"
+    width="360"
+    height="270"
     src="https://www.youtube.com/embed/R7gOOxrP61Q"
     frameborder="0"
     allow="autoplay; encrypted-media"
