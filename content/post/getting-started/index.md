@@ -4,10 +4,10 @@ summary: Post en el que cuento de qué son los escutoides y cómo surgió la ide
 draft: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 title: Los Escutoides de Miel
 subtitle: ""
-date: 2020-12-13T00:00:00Z
+date: 2020-12-13T00:00:00.000Z
 featured: false
 tags:
   - Apicazorla
@@ -26,9 +26,16 @@ Hace algo más de dos años leí la noticia de que unos científicos andaluces h
 Clara Grima, profesora de matemáticas y divulgadora de Ciencias Matemáticas, una de la científicas del proyecto, se interesó por los escutoides de miel y los adquirió a través de de una tienda on line de Cazorla. A continuación muestro una fotografía que colgó en su cuenta de Twitter mostrando los escutoides de miel y saboreando la rica miel.
 
 
+<center>
+<img src="https://drive.google.com/uc?export=view&id=NvOf3st-gNbvGcgYdZL2k6DdPHnWD0r" width="750">
+</center>
+
  El grupo de científicos que hicieron el hallazgo de los escutoides lo publicaron en  la revista Nature Communications: Scutoids are a geometrical solution to three-dimensional packing of epithelia.  Otras medios de comunicación como CBS, New York Times, Forbes, BBC, New Yorker, etc. , se hicieron eco de la noticia. Todos explicando y mostrando los escutoides. 
 Según Clara Grima ''era una nueva forma geométrica que no se había descrito ni en biología, ni en matemáticas ni en ninguna otra disciplina''. 
 
+<center>
+<img src="https://drive.google.com/uc?export=view&id=1NonB4bN6evJ6VCxlu0c-3TUpRwfCkJLf" width="750">
+</center>
 
 Según este grupo de científicos, las células epiteliales se empaquetan utilizando esta figura, ya que es la mejor opción para ahorrar energía cuando hay cierta curvatura en el tejido. El hallazgo es importante para un mejor diagnóstico de tumores y el diseño de órganos artificiales.  
 En el siguiente vídeo, el biofísico del proyecto, Javier Buceta,  da una explicación pormenorizada del hallazgo y sus implicaciones en muchos ámbitos.
