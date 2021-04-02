@@ -27,14 +27,10 @@ Clara Grima, profesora de matemáticas y divulgadora de Ciencias Matemáticas, u
 </blockquote><div><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-PPbln1WCLHA/X85sh0ieG7I/AAAAAAAACHo/QicFn4sBk80D1c1cnl7BojAHgVZKaopEwCLcBGAsYHQ/s256/Clara_Grima.jpeg" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="256" data-original-width="256" src="https://1.bp.blogspot.com/-PPbln1WCLHA/X85sh0ieG7I/AAAAAAAACHo/QicFn4sBk80D1c1cnl7BojAHgVZKaopEwCLcBGAsYHQ/s0/Clara_Grima.jpeg" /></a></div><div><div>
 
 
-
-
  El grupo de científicos que hicieron el hallazgo de los escutoides lo publicaron en  la revista Nature Communications: Scutoids are a geometrical solution to three-dimensional packing of epithelia.  Otras medios de comunicación como CBS, New York Times, Forbes, BBC, New Yorker, etc., se hicieron eco de la noticia. Todos explicando y mostrando los escutoides. 
 Según Clara Grima ''era una nueva forma geométrica que no se había descrito ni en biología, ni en matemáticas ni en ninguna otra disciplina''. 
 
-
-
-</div><div style="text-align: justify;">&nbsp;</div><div style="text-align: justify;">&nbsp;<div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/4xQXZvx_CCum1_oAWH9PrYHgNtzA6pzBZCrnCEqeqavMBy6g0jEVMdM1qJLLjDCV4nQOOb7IjGZDvR8=s400" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="400" data-original-width="400" height="320" src="https://1.bp.blogspot.com/4xQXZvx_CCum1_oAWH9PrYHgNtzA6pzBZCrnCEqeqavMBy6g0jEVMdM1qJLLjDCV4nQOOb7IjGZDvR8=s320" /></a></div></div><div style="text-align: justify;">&nbsp;</div><div class="separator" style="clear: both; text-align: justify;"><span style="text-align: left;">
+</div><div style="text-align: justify;">&nbsp;<div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/4xQXZvx_CCum1_oAWH9PrYHgNtzA6pzBZCrnCEqeqavMBy6g0jEVMdM1qJLLjDCV4nQOOb7IjGZDvR8=s400" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="400" data-original-width="300" height="240" src="https://1.bp.blogspot.com/4xQXZvx_CCum1_oAWH9PrYHgNtzA6pzBZCrnCEqeqavMBy6g0jEVMdM1qJLLjDCV4nQOOb7IjGZDvR8=s320" /></a></div></div>
 
 Según este grupo de científicos, las células epiteliales se empaquetan utilizando esta figura, ya que es la mejor opción para ahorrar energía cuando hay cierta curvatura en el tejido. El hallazgo es importante para un mejor diagnóstico de tumores y el diseño de órganos artificiales.  
 En el siguiente vídeo, el biofísico del proyecto, Javier Buceta,  da una explicación pormenorizada del hallazgo y sus implicaciones en muchos ámbitos.
