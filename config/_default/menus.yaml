@@ -10,9 +10,6 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Proyectos
-    url: '#projects'
-    weight: 30
   - name: Nuestros productos
     url: '#talks'
     weight: 40
