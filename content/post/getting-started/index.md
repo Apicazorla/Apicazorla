@@ -1,15 +1,13 @@
 ---
-summary: Welcome 👋 We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar
-  with everything in no time.
+summary: Post en el que cuento de qué son los escutoides y cómo surgió la idea
+  de utilizar estas figuras como envase para la miel.
 draft: false
 authors:
   - admin
   - 吳恩達
 lastmod: 2020-12-13T00:00:00Z
 title: Los Escutoides de Miel
-subtitle: Post en el que cuento de qué son los escutoides y cómo surgió la idea
-  de utilizar estas figuras como envase para la miel.
+subtitle: ""
 date: 2020-12-13T00:00:00Z
 featured: false
 tags:
