@@ -34,7 +34,8 @@ design:
 
 La web de apicultura de la **Sierra de Cazorla** para dar a conocer sus productos apícolas y algunos aspectos del mundo de las 🐝🐝🐝.
 
+ <P ALIGN=right>
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7791488&style=0006&nbdigits=6&type=ip&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a> 
-
+</P>
