@@ -34,7 +34,9 @@ Según Clara Grima ''era una nueva forma geométrica que no se había descrito n
 
 A continuación, se muestra una animación gif de los escutoides obtenida de la Wikipedia.
 
-
+<center>
+<img src="https://drive.google.com/uc?export=view&id=19-9eDMJA_RD_y0ASZ5u-awAx9ngq6D1M" width="250">
+</center>
 
 Según este grupo de científicos, las células epiteliales se empaquetan utilizando esta figura, ya que es la mejor opción para ahorrar energía cuando hay cierta curvatura en el tejido. El hallazgo es importante para un mejor diagnóstico de tumores y el diseño de órganos artificiales.  
 En el siguiente vídeo, el biofísico del proyecto, Javier Buceta,  da una explicación pormenorizada del hallazgo y sus implicaciones en muchos ámbitos.
