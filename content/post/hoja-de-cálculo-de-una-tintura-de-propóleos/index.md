@@ -12,7 +12,10 @@ links:
 - icon_pack: fab
   icon: twitter
   mane: Follow
-  url: 'https.//twitter.com/Twitter'
+  url: 'https://twitter.com/georgecushen'
+
+  
+  
 ---
 Este archivo Excel sirve para determinar la cantidad de alcohol (etanol) de uso interno necesario para preparar una tintura de propóleos de un determinado porcentaje para una determinada masa de propóleos en bruto. 
 
