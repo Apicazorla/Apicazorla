@@ -8,6 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-
-
-{{< figure library="true" src=" apicazorla/assets/media/et_fe_pro.svg" lightbox="false" width="100%" >}}
+Ok
