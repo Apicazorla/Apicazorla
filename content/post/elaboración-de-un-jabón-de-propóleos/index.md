@@ -20,8 +20,8 @@ image:
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   viewBox="0 0 513.33331 172"
-   height="172"
+   viewBox="0 0 513.33331 170.66667"
+   height="170.66667"
    width="513.33331"
    xml:space="preserve"
    id="svg2"
@@ -30,7 +30,7 @@ image:
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><g
-     transform="matrix(1.3333333,0,0,-1.3333333,0,172)"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,170.66667)"
      id="g10"><g
        transform="scale(0.1)"
        id="g12"><g
@@ -225,7 +225,7 @@ image:
              x="0 6 9.9960003 15.996 21.996 27.323999 33.324001 39.324001 42.66 47.987999">propanoico</tspan><tspan
              id="tspan136"
              y="12.2332"
-             x="-73.656303 -49.6563 -45.660301 -40.332298 -35.004299 -31.668301 -25.668301 -19.668301 -16.668301 -13.3323 -8.0043001 -2.6763 0.65969998 3.9956999 9.3237 15.3237"> (ácido láctico)</tspan></text>
+             x="-73.656303 -43.6563 -39.660301 -34.332298 -29.004299 -25.668301 -19.668301 -13.6683 -10.6683 -7.3323002 -2.0043001 3.3237 6.6596999 9.9956999 15.3237 21.3237"> (ácido láctico)</tspan></text>
 <text
            id="text142"
            style="font-variant:normal;font-weight:normal;font-size:9px;font-family:'Courier New';-inkscape-font-specification:Courier;writing-mode:lr-tb;fill:#231f20;fill-opacity:1;fill-rule:nonzero;stroke:none"
