@@ -10,4 +10,4 @@ image:
 ---
 
 
-{{< figure library="true" src="assets/media/et_fe_pro.svg" lightbox="false" width="100%" >}}
+{{< figure library="true" src="apicazorla/assets/media/et_fe_pro.svg" lightbox="false" width="100%" >}}
