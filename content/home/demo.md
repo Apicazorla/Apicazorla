@@ -34,7 +34,4 @@ design:
 
 La web de apicultura de la **Sierra de Cazorla** para dar a conocer sus productos apícolas y algunos aspectos del mundo de las 🐝🐝🐝.
 
- <P ALIGN=right>
-<a href="https://www.websmultimedia.com/contador-de-visitas-gratis" title="Contador De Visitas Gratis">
-<img style="border: 0px solid; display: inline;" alt="contador de visitas" src="https://www.websmultimedia.com/contador-de-visitas.php?id=294380"></a><br><a href='https://www.websmultimedia.com/contador-de-visitas-gratis'></a><br><a href='https://www.websmultimedia.com'></a>
-</P>
+
