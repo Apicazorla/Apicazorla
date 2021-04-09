@@ -15,3 +15,7 @@ image:
 <center>
 <img src="https://drive.google.com/uc?export=view&id=1zdULfQwRXW5YOs0pcML-LvaGOPhoTIsp" width="500">
 </center>
+
+<center>
+<img src="https://drive.google.com/uc?export=view&id=1fxpmGeImduTCTVX2vF5IXNBUHSwXd9nV" width="1200">
+</center>
