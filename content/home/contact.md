@@ -4,7 +4,7 @@ widget_id: Ubicación
 weight: 140
 title: Contacto
 subtitle: null
-active: true
+active: false
 content:
   autolink: true
   form:
