@@ -1,7 +1,7 @@
 ---
 widget: contact
 widget_id: Ubicación
-weight: 130
+weight: 140
 title: Contacto
 subtitle: null
 active: true
