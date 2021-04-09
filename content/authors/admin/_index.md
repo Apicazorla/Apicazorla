@@ -10,7 +10,7 @@ interests:
 social:
   - display:
       header: false
-    link: "<a href="mailto:fisicayquimica@telefonica.net">Contacto </a>"
+    link: 
     icon_pack: fas
     icon: o
 organizations:
