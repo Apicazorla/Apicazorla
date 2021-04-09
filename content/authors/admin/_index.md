@@ -10,11 +10,11 @@ interests:
 social:
   - display:
       header: false
-    link: o
+    link: "<a href="mailto:fisicayquimica@telefonica.net">Contacto </a>"
     icon_pack: fas
     icon: o
 organizations:
-  - name: "<a href="mailto:fisicayquimica@telefonica.net">Contacto </a>"
+  - name: 
     url: https://www.apicazorla.com/
 superuser: true
 highlight_name: false
