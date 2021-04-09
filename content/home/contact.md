@@ -1,33 +1,25 @@
 ---
-# An instance of the Contact widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
 widget: contact
-
-# This file represents a page section.
-headless: true
-
-# Activate this widget? true/false
-active: true
-
-# Order that this section appears on the page.
+widget_id: pOSICIÓN
 weight: 130
-
 title: Contacto
-subtitle:
-
+subtitle: null
+active: true
 content:
-  # Automatically link email and phone or display as text?
   autolink: true
-  
-  # Email form provider
   form:
     provider: netlify
     formspree:
-      id:
+      ? id
     netlify:
-      # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-  
+headless: true
 design:
-  columns: '2'
+  columns: "2"
 ---
+<span id=person-address>Cantabria, España</span></li></ul><div class=d-none><input id=map-provider value=google>
+<input id=map-lat value=43.416645>
+<input id=map-lng value=-4.041206>
+<input id=map-dir value="Cantabria, España">
+<input id=map-zoom value=15>
+<input id=map-api-key value=AIzaSyCn2H5MkX22gsa4VLtCNgWWEcEC661B0w0></div><div id=map></div>
