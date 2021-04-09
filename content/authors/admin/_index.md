@@ -14,7 +14,7 @@ social:
     icon_pack: fas
     icon: o
 organizations:
-  - name: 
+  - name: Apicazorla
     url: https://www.apicazorla.com/
 superuser: true
 highlight_name: false
