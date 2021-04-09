@@ -29,8 +29,7 @@ address:
   postcode: '23470'
   country: España
   country_code: ES
-#coordinates:
-coordinates = {latitude = "37.910549", longitude = "3.00217006"}
+
 
 # Site header
 
