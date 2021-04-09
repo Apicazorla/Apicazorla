@@ -1,8 +1,6 @@
 ---
 widget: contact
 widget_id: Ubicación
-# Activate this widget? true/false
-active: false
 weight: 140
 title: Contacto
 subtitle: null
@@ -19,3 +17,4 @@ headless: true
 design:
   columns: "2"
 ---
+
