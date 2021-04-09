@@ -8,9 +8,11 @@ interests:
   - Elaboración artesanal de jabones
   - Bicicleta
 social:
-  - icon: envelope
+  - display:
+      header: false
+    link: fisicayquimica@telefonica.net
     icon_pack: fas
-    link: /#contact
+    icon: h
 organizations:
   - name: Apicazorla
     url: https://www.apicazorla.com/
