@@ -14,7 +14,7 @@ social:
     icon_pack: fas
     icon: o
 organizations:
-  - name: <a href="mailto:fisicayquimica@telefonica.net">Contacto </a>
+  - name: "<a href="mailto:fisicayquimica@telefonica.net">Contacto </a>"
     url: https://www.apicazorla.com/
 superuser: true
 highlight_name: false
