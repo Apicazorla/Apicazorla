@@ -19,6 +19,8 @@ image:
   placement: 2
   preview_only: false
   filename: featured.jpg
+  icon: false
+  
 ---
 
 
