@@ -9,8 +9,7 @@ title: Los Escutoides de Miel
 subtitle: ""
 date: 2020-12-13T00:00:00.000Z
 featured: false
-tags:
-  - Apicazorla
+tags: []
 categories: []
 projects: []
 image:
@@ -19,7 +18,7 @@ image:
   placement: 2
   preview_only: false
   filename: featured.jpg
-  icon: false
+  
   
 ---
 
