@@ -11,7 +11,7 @@ image:
 links:
 - icon_pack: fab
   icon: twitter
-  mane: Follow
+  name: Follow
   url: 'https://twitter.com/georgecushen'
 
   
