@@ -1,7 +1,6 @@
 ---
 role: Apicultor aficionado y profesor de Física y Química jubilado
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Lectura
   - Paseos por la naturaleza
