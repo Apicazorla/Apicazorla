@@ -99,11 +99,11 @@ breadcrumb:
 comments:
   provider: ''
   commentable:
-    post: false
-    book: false
-    project: false
-    publication: false
-    event: false
+    post: true
+    book: true
+    project: true
+    publication: true
+    event: true
   disqus:
     shortname: ''
     show_count: true
