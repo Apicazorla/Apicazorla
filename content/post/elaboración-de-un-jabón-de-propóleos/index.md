@@ -7,6 +7,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+  tags: false
+  
 ---
 <center>
 <img src="https://drive.google.com/uc?export=view&id=19-9eDMJA_RD_y0ASZ5u-awAx9ngq6D1M" width="250">
