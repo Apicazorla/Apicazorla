@@ -1,5 +1,5 @@
 ---
-role: Apicultor aficionado y profesor de Física y Química jubilado
+role: Apicultor aficionado y profesor jubilado de Física y Química
 bio: ""
 interests:
   - Lectura
