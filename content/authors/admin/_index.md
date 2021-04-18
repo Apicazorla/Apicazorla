@@ -4,7 +4,7 @@ bio: ""
 interests:
   - Lectura
   - Paseos por la sierra 
-  - Elaboración jabones artesanales
+  - Elaboración de jabones artesanales
   - Bicicleta
 social:
   - display:
