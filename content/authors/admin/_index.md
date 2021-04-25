@@ -1,10 +1,10 @@
 ---
-role: Apicultor aficionado y profesor de Física y Química jubilado
+role: Apicultor aficionado y profesor jubilado de Física y Química
 bio: ""
 interests:
   - Lectura
-  - Paseos por la naturaleza
-  - Elaboración artesanal de jabones
+  - Paseos por la sierra 
+  - Elaboración de jabones artesanales
   - Bicicleta
 social:
   - display:
