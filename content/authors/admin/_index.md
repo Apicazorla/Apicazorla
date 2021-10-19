@@ -17,7 +17,7 @@ organizations:
     url: https://www.apicazorla.com/
 superuser: true
 highlight_name: false
-title: Francisco JosÃ© Moreno Hueso
+title: Francisco José Moreno Hueso
 email: ""
 ---
 
