@@ -49,4 +49,4 @@ En el siguiente vídeo, el biofísico del proyecto, Javier Buceta,  da una expli
 </iframe>
 </center>
 
-Si  usted está interesado en comprar los escutoides de miel puede adquirirlos en www.productoscazorla.com o en tiendas de la comarca de la Sierra de Cazorla o proximidades.
+Si  usted está interesado en comprar los escutoides de miel puede adquirirlos en www.productoscazorla.com o en tiendas de la comarca de la Sierra de Cazorla.
