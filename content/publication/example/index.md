@@ -20,7 +20,8 @@ publishDate: "2017-01-01T00:00:00Z"
 
 
 
-abstract: Miel de flores con o sin cuchara mielera en envase de cristal. Dimensiones: 5x5x7 cm. 
+abstract: Miel de flores de 125 g con o sin cuchara mielera en evase de cristal de 5x5x7 cm.
+
 # Summary. An optional shortened abstract.
 summary: Miel de flores de 125 g con o sin cuchara mielera.
 
