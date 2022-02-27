@@ -7,10 +7,6 @@ title: "Miel de flores 125 g"
 authors:
 - admin
 
-# Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 
 date: "2022-03-01T00:00:00Z"
 doi: ""
