@@ -1,4 +1,5 @@
 ---
+
 title: Nuestras mieles
 
 event: Wowchemy Conference
@@ -12,8 +13,8 @@ address:
   postcode: '94305'
   country: United States
 
-summary: Apicazorla produce miel de flores y romero y está envasada en distintos formatos.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Apicazorla produce miel de flores y romero. Está envasada en distintos formatos, algunos muy originales como los escutoides.
+abstract: "Apicazorla produce miel de flores y romero. Está envasada en distintos formatos, algunos muy originales como los escutoides. Otros son muy solicitados para eventos como son el tarrito de 125 g de miel de flores con o sin cuchara mielera, o el bote cerámico de miel de flores de 250 g con cuchara mielera."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -62,14 +63,22 @@ projects:
 - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+### Nuestros formatos
 
-Slides can be added in a few ways:
+| Artículo                                                     | Fotografía |
+| :----------------------------------------------------------- | ---------- |
+| Miel de flores de 500 g                                      |            |
+| Miel de flores de 1 kg                                       |            |
+| Miel de flores de 2 kg                                       |            |
+| Miel de flores de 5 kg                                       |            |
+| Miel de romero de 350 g antigoteo                            |            |
+| Miel de romero de 500 g                                      |            |
+| Miel de romero de 1 kg                                       |            |
+| Miel de romero de 2 kg                                       |            |
+| Miel de flores de 125 g con o sin cuchara mielera            |            |
+| Miel de flores  de 250 g en bote cerámico                    |            |
+| Miel de flores de 250 g en orzas de colores (5 colores)      |            |
+| Escutoides de miel (pack de 2x250 g de miel de flores y romero) |            |
 
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+### Establecimientos donde vende la miel
 
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
