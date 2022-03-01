@@ -2,17 +2,16 @@
 
 title: Nuestras mieles
 
-event: Wowchemy Conference
-event_url: https://example.org
+# event: Wowchemy Conference
+# event_url: https://example.org
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
+# location: Francisco J. Moreno Hueso
+# address:
+  # street: Virgen de Montesión, 3
+  # city: Cazorla
+  # region: Jaén
+  # postcode: '23470'
+  # country: España
 summary: Apicazorla produce miel de flores y romero. Está envasada en distintos formatos, algunos muy originales como los escutoides.
 abstract: "Apicazorla produce miel de flores y romero. Está envasada en distintos formatos, algunos muy originales como los escutoides. Otros son muy solicitados para eventos como son el tarrito de 125 g de miel de flores con o sin cuchara mielera, o el bote cerámico de miel de flores de 250 g con cuchara mielera."
 
