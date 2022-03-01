@@ -32,8 +32,11 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: ""
+  focal_point: ""
+  placement: 2
+  preview_only: false
+  filename: featured_2.jpg
 
 links:
 - icon: twitter
@@ -65,20 +68,20 @@ projects:
 
 ### Nuestros formatos
 
-| Artículo                                                     | Fotografía |
-| :----------------------------------------------------------- | ---------- |
-| Miel de flores de 500 g                                      |            |
-| Miel de flores de 1 kg                                       |            |
-| Miel de flores de 2 kg                                       |            |
-| Miel de flores de 5 kg                                       |            |
-| Miel de romero de 350 g antigoteo                            |            |
-| Miel de romero de 500 g                                      |            |
-| Miel de romero de 1 kg                                       |            |
-| Miel de romero de 2 kg                                       |            |
-| Miel de flores de 125 g con o sin cuchara mielera            |            |
-| Miel de flores  de 250 g en bote cerámico                    |            |
-| Miel de flores de 250 g en orzas de colores (5 colores)      |            |
-| Escutoides de miel (pack de 2x250 g de miel de flores y romero) |            |
+| Formatos                                                     |
+| :----------------------------------------------------------- |
+| Miel de flores de 500 g                                      |
+| Miel de flores de 1 kg                                       |
+| Miel de flores de 2 kg                                       |
+| Miel de flores de 5 kg                                       |
+| Miel de romero de 350 g antigoteo                            |
+| Miel de romero de 500 g                                      |
+| Miel de romero de 1 kg                                       |
+| Miel de romero de 2 kg                                       |
+| Miel de flores de 125 g con o sin cuchara mielera            |
+| Miel de flores  de 250 g en bote cerámico                    |
+| Miel de flores de 250 g en orzas de colores (5 colores)      |
+| Escutoides de miel (pack de 2x250 g de miel de flores y romero) |
 
 ### Establecimientos donde vende la miel
 
